@@ -1,0 +1,12 @@
+#binaries
+student-manager
+student-manager*
+*.exe
+
+
+#app data
+students.json
+
+# OS/editor noise
+.DS_Store
+.vscode/
